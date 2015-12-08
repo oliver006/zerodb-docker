@@ -1,0 +1,10 @@
+<zeo>
+  address 0.0.0.0:8001
+  authentication-protocol ecc_auth
+  authentication-database /conf/authdb.conf
+  authentication-realm ZERO
+</zeo>
+
+<filestorage>
+    path /data/db.fs
+</filestorage>
