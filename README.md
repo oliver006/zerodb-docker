@@ -2,6 +2,8 @@
 
 Run [zerodb](http://www.zerodb.io) in a docker container.
 
+Docker image on [Docker Hub](https://hub.docker.com/r/21zoo/zerodb/)
+
 ### How to run this?
 
 ```
